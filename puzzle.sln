@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRATKOCASNIK", "KRATKOCASNIK\KRATKOCASNIK.csproj", "{F6AF4EF6-5EF9-4FDE-9A7C-142F38E1257B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prepis", "prepis\prepis.csproj", "{DED1338E-C150-48A4-B34E-9F55DF265CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6AF4EF6-5EF9-4FDE-9A7C-142F38E1257B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AF4EF6-5EF9-4FDE-9A7C-142F38E1257B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AF4EF6-5EF9-4FDE-9A7C-142F38E1257B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AF4EF6-5EF9-4FDE-9A7C-142F38E1257B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED1338E-C150-48A4-B34E-9F55DF265CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED1338E-C150-48A4-B34E-9F55DF265CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED1338E-C150-48A4-B34E-9F55DF265CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED1338E-C150-48A4-B34E-9F55DF265CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA84D9F-24E6-40B0-A5F0-A527DE4A9DF2}
+	EndGlobalSection
+EndGlobal
